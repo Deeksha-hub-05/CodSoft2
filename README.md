@@ -9,7 +9,7 @@ This project was developed as part of the C++ Programming Virtual Internship at 
 # Overview
 This project is a part of my C++ Programming Virtual Internship at CodSoft. It is a simple C++program that generates a random number and asks the user to guess it.The program provides a feedback on whether the user's guess is too high or too low until they guess the correct number.
 
-# Features
+### Features
 -Random number generation between 1 and 100.
 -User-friendly feedback for each guess(`Too high`or `Too low`).
 -Tracks the number of attemts taken by the user to guess the number.
@@ -19,16 +19,16 @@ This project is a part of my C++ Programming Virtual Internship at CodSoft. It i
 This project is a part of my C++ Programming Virtual Internship at CodSoft. It includes a simple calculator with basic arithmetic operations : addition,subtraction,multiplication and division.The user can input two numbers and choose the operation to perform.
 
 # Features
-# *Addition* :
+### *Addition* 
  -Prompt the user to add two input numbers.
 
-# *Subtraction* :
+### *Subtraction* 
  -Prompt the user to subtract two input numbers.
 
-# *Multiplication* :
+### *Multiplication* 
  -Prompt the user to multiply two input numbers.
 
-# *Division* : 
+### *Division* 
  -Prompt the user to divide two input numbers.
 
 # TASK 3- Library Management System
