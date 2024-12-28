@@ -19,17 +19,17 @@ This project is a part of my C++ Programming Virtual Internship at CodSoft. It i
 This project is a part of my C++ Programming Virtual Internship at CodSoft. It includes a simple calculator with basic arithmetic operations : addition,subtraction,multiplication and division.The user can input two numbers and choose the operation to perform.
 
 # Features
-# *Addition :
--Prompt the user to add two input numbers.
+# *Addition* :
+ -Prompt the user to add two input numbers.
 
-# *Subtraction :
--Prompt the user to subtract two input numbers.
+# *Subtraction* :
+ -Prompt the user to subtract two input numbers.
 
-# *Multiplication :
--Prompt the user to multiply two input numbers.
+# *Multiplication* :
+ -Prompt the user to multiply two input numbers.
 
-# *Division : 
--Prompt the user to divide two input numbers.
+# *Division* : 
+ -Prompt the user to divide two input numbers.
 
 # TASK 3- Library Management System
 # Overview
