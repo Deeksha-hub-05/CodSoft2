@@ -5,40 +5,54 @@ Myself Deeksha Phulara, I am currently working as a C++ Programming Intern in th
 # Acknowledgements
 This project was developed as part of the C++ Programming Virtual Internship at Codsoft. Special thanks to the Codsoft team for this fantastic learning opportunity.
 
-# TASK 1- TO-Do list
+# TASK 1- Number Guessing Game
 # Overview
-This project is a part of my Python Programming Virtual Internship at CodSoft. It helps users manage and organize their tasks efficiently.
+This project is a part of my C++ Programming Virtual Internship at CodSoft. It is a simple C++program that generates a random number and asks the user to guess it.The program provides a feedback on whether the user's guess is too high or too low until they guess the correct number.
 
 # Features
-This project aims to create a command-line or GUI-based application using Python, allowing users to create,update,and track their to-do lists.
+-Random number generation between 1 and 100.
+-User-friendly feedback for each guess(`Too high`or `Too low`).
+-Tracks the number of attemts taken by the user to guess the number.
 
-# TASK 2-Calculator
+# TASK 2- Simple Calculator
 # Overview
-This project is a part of my Python Programming Virtual Internship at CodSoft. It includes a simple calculator with basic arithmetic operations.
+This project is a part of my C++ Programming Virtual Internship at CodSoft. It includes a simple calculator with basic arithmetic operations : addition,subtraction,multiplication and division.The user can input two numbers and choose the operation to perform.
 
 # Features
-*Addition : Prompt the user to add two input numbers.
+# *Addition : Prompt the user to add two input numbers.
 
-*Subtraction : Prompt the user to subtract two input numbers.
+# *Subtraction : Prompt the user to subtract two input numbers.
 
-*Multiplication : Prompt the user to multiply two input numbers.
+# *Multiplication : Prompt the user to multiply two input numbers.
 
-*Division : Prompt the user to divide two input numbers.
+# *Division : Prompt the user to divide two input numbers.
 
-# TASK 3-Contact Book
+# TASK 3- Library Management System
 # Overview
-Contact Information: Store name, phone number, email, and address for each contact.
+A comprehensive C++ program to manage a library database, providing functionalities such as storing book information, searching for books, managing book checkouts and returns, and calculating fines for overdue books. It includes a simple user-friendly interface for librarians to interact with the system.
 
 # Features
-*Add Contact : Allow users to add new contacts with their details.
+# *Book Database*
+- Stores book details: Title, Author, and ISBN.
+- Tracks book availability status.
 
-*View Contact List : Display a list of all saved contacts with names and phone numbers.
+# *Book Search*
+- Search for books by:
+  - Title
+  - Author
+  - ISBN
 
-*Search Contact : Implement a search function to find contacts by name or phone number.
+# *Book Checkout*
+- Enables librarians to check out books to borrowers.
+- Updates book availability status upon checkout.
 
-*Update Contact : Enable users to update contact details.
+# *Book Return*
+- Records book returns.
+- Updates the book's availability status in the database.
 
-*Delete Contact : Provide an option to delete a contact.
+# *Fine Calculation*
+- Calculates fines for overdue books.
+- Allows configurable fine rates based on days overdue.
 
-*User Interface : Design a user-friendly interface for easy interaction.
-
+# *User Interface*
+- Simple and interactive menu-driven interface for easy navigation.
