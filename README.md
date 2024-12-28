@@ -10,9 +10,7 @@ This project was developed as part of the C++ Programming Virtual Internship at 
 This project is a part of my C++ Programming Virtual Internship at CodSoft. It is a simple C++program that generates a random number and asks the user to guess it.The program provides a feedback on whether the user's guess is too high or too low until they guess the correct number.
 
 ### Features
--Random number generation between 1 and 100.
--User-friendly feedback for each guess(`Too high`or `Too low`).
--Tracks the number of attemts taken by the user to guess the number.
+Random number generation between 1 and 100.User-friendly feedback for each guess(`Too high`or `Too low`).Tracks the number of attempts taken by the user to guess the number.
 
 # TASK 2- Simple Calculator
 # Overview
